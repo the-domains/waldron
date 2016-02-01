@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#C0C8C0'
+    - '#000000'
+    - '#606050'
+    - '#000000'
+    - '#000000'
+  brandStrength: 0.4782206064346629
+  lightness: 0.3554793245595258
+  rhythmicContrast: 0.9858616651938247
+  saturation: 0.8084475685586293
+cta: {}
+layout_spectrum: 0.9254001197101787
+name: waldron
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.023848
